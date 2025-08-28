@@ -14,7 +14,7 @@ This project demonstrates **enterprise-grade application design** with a strong 
 
 - **JWT-based Authentication (Stateless)** – Issue JWT tokens containing user roles & permissions.
 
-- **Role-Based Access Control (RBAC)** – Three roles with specific permissions:
+- **Role-Based Access Control (RBAC)** – Four roles with specific permissions:
 
     - **Patient** → View Own Medical Records.
 
