@@ -16,7 +16,7 @@ This project demonstrates **enterprise-grade application design** with a strong 
 
 - **Role-Based Access Control (RBAC)** – Four roles with specific permissions:
 
-    - **Patient** → View Own Medical Records.
+    - **Patient** → View only their own medical records.
 
     - **Nurse** → View Medical Records,   Update Patient Status
       
