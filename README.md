@@ -192,7 +192,7 @@ Use **Authorization: Bearer <token>** in all secured requests.
 - Preloaded via data.sql.
 
 - Example Product:
-- 
+  
 ```
 INSERT INTO records (patientId, status, createdAt) VALUES
   (1, 'Admitted', CURRENT_TIMESTAMP);
