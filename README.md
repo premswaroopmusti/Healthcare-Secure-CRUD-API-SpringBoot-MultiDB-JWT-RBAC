@@ -36,7 +36,7 @@ This project demonstrates **enterprise-grade application design** with a strong 
 
 - **PATCH /api/records/{patientId}/status** – Doctors/Nurses: Update the admission/discharge status of a patient.
 
-- **POST /api/records/{patientId}/prescriptions*** – Doctors: Prescribe medication for a specific patient.
+- **POST /api/records/{patientId}/prescriptions** – Doctors: Prescribe medication for a specific patient.
 
 - **Medical Record attributes**: id, patientId, data, status, createdAt.
 
